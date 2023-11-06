@@ -11,3 +11,19 @@ git push -u origin master
 config->
 git config --global user.name "username"
 git config --global user.email "emaild"
+
+git status
+
+git branch branchname
+git checkout branchname
+
+git push -u origin branchname
+
+
+
+git clone "url"
+git pull "url"
+
+
+
+
