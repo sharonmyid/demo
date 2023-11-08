@@ -24,6 +24,7 @@ git push -u origin branchname
 git clone "url"
 git pull "url"
 
+chek
 
 
 
